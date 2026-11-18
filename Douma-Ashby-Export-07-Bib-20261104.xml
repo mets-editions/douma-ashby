@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Douma-Ashby-Export-07-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography </title>
+        <author>Douma, Aline</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2025-11" to="2026-02">Checked and corrected bibliographic references</resp>
+          <resp from="2025-11" to="2026-02">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-11" to="2026-02">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2026-06" to="2026-11">Audited documents prior to print/export</resp>
+          <resp from="2025-12" to="2026-01">Checked and corrected bibliographic references</resp>
+          <resp from="2026-09" to="2026-11">Collected metadata</resp>
+          <resp from="2026-11" to="2026-11">Encoded TEI</resp>
+          <resp from="2025-12" to="2026-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-10" to="2026-10">Entered corrections for digital edition</resp>
+          <resp from="2025-12" to="2026-10">Entered corrections for print edition</resp>
+          <resp from="2026-10" to="2026-10">Formatted for print edition</resp>
+          <resp from="2026-10" to="2026-10">Formatted for XML export</resp>
+          <resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2025-07" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-07" to="2025-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-07" to="2025-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2025-07" to="2025-07">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-07" to="2025-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2026-05" to="2026-10">Audited documents prior to print/export</resp>
+          <resp from="2026-05" to="2026-05">Checked and corrected bibliographic references</resp>
+          <resp from="2025-07" to="2025-06">Copyedited and proofread</resp>
+          <resp from="2025-07" to="2026-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-05" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-05" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-05" to="2026-06">Formatted for XML export</resp>
+          <resp from="2025-07" to="2026-05">Reviewed edition for consistency and audience</resp>
+          <resp from="2025-07" to="2025-08">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-07" to="2026-05">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Texts Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>Edge Hill University (UK)</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Publishing Specialist, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Digital Asset Management Lead, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>Louisiana State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Carissa Harris</persName>
+          <orgName>Temple University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Senior Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>Rowan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>University of Central Lancashire</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara L. McShane</persName>
+          <orgName>Ursinus College</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Executive Director, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Managing Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kexin Zhang</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Ashby, George</author>
+            <editor>Douma, Aline</editor>
+            <title>George Ashby's Active Policy of a Prince and Dicta et Opiniones Diversorum
+              Philosophorum </title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/douma-ashby/blob/main/douma-ashby-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Douma-Ashby-Export-07-Bib"/>
+      <div type="text">
+        <p style="heading">Manuscripts and archival documents</p>
+        <listBibl>
+          <bibl>Cambridge, Cambridge University Library, MS Mm.4.42.</bibl>
+          <bibl>London, British Library, Add MS 24062.</bibl>
+          <bibl>London, British Library, Harley MS 116, fols. 124r–125r.</bibl>
+          <bibl>London, London Metropolitan Archives, ACC/312/288.</bibl>
+        </listBibl>
+        <p style="heading">Primary sources</p>
+        <listBibl>
+          <bibl>Ashby, George. <hi rend="italic">George Ashby’s Poems</hi>. Ed. Mary Bateson. EETS
+            e.s. 76. London: Kegan Paul, Trench, and Trübner, 1899. Online at <ref
+              target="https://archive.org/details/GeorgeAshbySPoems/page/n13/mode/2up"
+              type="external"
+            >https://archive.org/details/GeorgeAshbySPoems/page/n13/mode/2up</ref>.</bibl>
+          <bibl>Bühler, Curt, ed. <hi rend="italic">The Dicts and Sayings of the Philosophers: The
+              Translations Made by Stephen Scrope, William Worcester, and an Anonymous
+              Translator</hi>. EETS o.s. 211. Oxford: Oxford University Press, 1941. Online at <ref
+              target="https://archive.org/details/in.ernet.dli.2015.179819" type="external"
+              >https://archive.org/details/in.ernet.dli.2015.179819</ref>.</bibl>
+          <bibl>Davies, John Silvester, ed. <hi rend="italic">An English Chronicle of the Reigns of
+              Richard II, Henry IV, Henry V, and Henry VI Written Before the Year 1471</hi>. London:
+            Camden Society, 1856. Online at <ref
+              target="https://archive.org/details/anenglishchronic00camduoft" type="external"
+              >https://archive.org/details/anenglishchronic00camduoft</ref>.</bibl>
+          <bibl>Ellis, Henry, ed. <hi rend="italic">Original Letters, Illustrative of English
+              History; Including Numerous Royal Letters from Autographs in the British Museum and
+              One or Two Other Collections</hi>. 2nd ed. Vol. 1. London: Harding, Triphook, and
+            Lepard, 1825. Online at <ref
+              target="https://archive.org/details/originallettersi01elliuoft" type="external"
+              >https://archive.org/details/originallettersi01elliuoft</ref>.</bibl>
+          <bibl>Fortescue, John. <hi rend="italic">In Praise of the Laws of England</hi>. In <hi
+              rend="italic">On the Laws and Governance of England</hi>. Ed. Shelley Lockwood.
+            Cambridge, NY: Cambridge University Press, 1997. Pp. 1–80. Online at <ref
+              target="https://doi.org/10.1017/CBO9781139170512" type="external"
+              >https://doi.org/10.1017/CBO9781139170512</ref>.</bibl>
+          <bibl>Franceschini, Ezio, ed. <hi rend="italic">Il “Liber Philosophorum Moralium
+              Antiquorum:” Testo Critico</hi>. Venice: Reale Istituto Veneto di Scienze, Lettere ed
+            Arti, 1931–1932. Online at <ref target="https://it.alim.unisi.it/dl/resource/587"
+              type="external">https://it.alim.unisi.it/dl/resource/587</ref>.</bibl>
+          <bibl>Furnivall, F. J., ed. <hi rend="italic">The Minor Poems of the Vernon MS</hi>, Part
+            2. EETS o.s. 117. London: Kegan Paul, Trench, Trübner &amp; Co., 1901. Online at <ref
+              target="https://archive.org/details/minorpoemsofvpt202horsuoft/page/n7/mode/2up"
+              type="external"
+              >https://archive.org/details/minorpoemsofvpt202horsuoft/page/n7/mode/2up</ref>.</bibl>
+          <bibl>Gilson, J. P., ed. “A Defence of the Proscription of the Yorkists in 1459.” <hi
+              rend="italic">The English Historical Review</hi> 26, no. 103 (July 1911), 512–25.
+            Online at <ref target="https://www.jstor.org/stable/549840" type="external"
+              >https://www.jstor.org/stable/549840</ref>.</bibl>
+          <bibl>Harvey, Elizabeth Ruth, ed. <hi rend="italic">The Court of Sapience</hi>. Toronto:
+            University of Toronto Press, 1984. Online at <ref
+              target="https://doi.org/10.3138/9781487592837" type="external"
+              >https://doi.org/10.3138/9781487592837</ref>.</bibl>
+          <bibl>Hoccleve, Thomas. <hi rend="italic">Regiment of Princes</hi>. Ed. Charles R. Blyth.
+            METS. Kalamazoo, MI: Medieval Institute Publications, 1999. Online at <ref
+              target="https://metseditions.org/editions/0pvW29kLS2y8lS316CVX5LfYvvVwlwLV"
+              type="external"
+              >https://metseditions.org/editions/0pvW29kLS2y8lS316CVX5LfYvvVwlwLV</ref>.</bibl>
+          <bibl>John of Salisbury. <hi rend="italic">Policraticus: Of the Frivolities of Courtiers
+              and the Footprints of Philosophers</hi>. Ed. Cary J. Nederman. Cambridge: Cambridge
+            University Press, 1990. Online at <ref target="https://doi.org/10.1017/CBO9780511809453"
+              type="external">https://doi.org/10.1017/CBO9780511809453</ref>.</bibl>
+          <bibl>Luders, A., ed. <hi rend="italic">Statutes of the Realm, Volume 1</hi>. London:
+            Dawsons of Pall Mall, 1810. Online at <ref
+              target="https://go.gale.com/ps/i.do?p=MOME&amp;u=nysl_ro_rochstru&amp;id=GALE%7CU0107812236&amp;v=2.1&amp;it=r&amp;sid=bookmark-MOME&amp;sPage=4&amp;asid=994b7ad7"
+              type="external"
+              >https://go.gale.com/ps/i.do?p=MOME&amp;u=nysl_ro_rochstru&amp;id=GALE%7CU0107812236&amp;v=2.1&amp;it=r&amp;sid=bookmark-MOME&amp;sPage=4&amp;asid=994b7ad7</ref>.</bibl>
+          <bibl>Manzaloui, M. A., ed. <hi rend="italic">Secretum Secretorum: Nine English
+              Versions</hi>. EETS o.s. 276. Oxford: Oxford University Press, 1977. Online at <ref
+              target="https://archive.org/details/secretumsecretor0001unse" type="external"
+              >https://archive.org/details/secretumsecretor0001unse</ref>.</bibl>
+          <bibl>Marx, William, ed. <hi rend="italic">An English Chronicle, 1377–1461</hi>. Medieval
+            Chronicles 3. Woodbridge: The Boydell Press, 2003. Online at <ref
+              target="https://doi.org/10.1163/2213-2139_emc_COM_191887" type="external"
+              >https://doi.org/10.1163/2213-2139_emc_COM_191887</ref>.</bibl>
+          <bibl>Maxwell Lyte, H. C., ed. <hi rend="italic">Calendar of the Close Rolls Preserved in
+              the Public Record Office: Vol. 11: Edward III, 1360–1364</hi>. London: H. M.
+            Stationery Office, 1909. Online at <ref
+              target="https://archive.org/details/calendarofcloser11grea/page/n6/mode/1up"
+              type="external"
+              >https://archive.org/details/calendarofcloser11grea/page/n6/mode/1up</ref>.</bibl>
+          <bibl>Mooney, Linne R., and Mary-Jo Arn, eds. <hi rend="italic">The Kingis Quair and Other
+              Prison Poems</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 2005. Online
+            at <ref target="https://metseditions.org/editions/2ZlL20jU2emwT6A3fa8NZiRbezQxMad"
+              type="external"
+              >https://metseditions.org/editions/2ZlL20jU2emwT6A3fa8NZiRbezQxMad</ref>.</bibl>
+          <bibl>Myers, A. R., ed. <hi rend="italic">English Historical Documents, 1327–1485</hi>.
+            English Historical Documents 4. Gen. ed. David C. Douglas. New York: Oxford University
+            Press, 1969.</bibl>
+          <bibl>Napierkowski, Thomas Joseph. “A Critical Edition of the ‘Summum Sapientiae.’” Ph.D.
+            Dissertation: University of Colorado, 1971. Online at <ref
+              target="https://www.proquest.com/docview/302474192?sourcetype=Dissertations%20&amp;%20Theses"
+              type="external"
+              >https://www.proquest.com/docview/302474192?sourcetype=Dissertations%20&amp;%20Theses</ref>.</bibl>
+          <bibl>Stamp, A. E., ed. <hi rend="italic">Calendar of Close Rolls Preserved in the Public
+              Record Office: Vol. 1: Henry VI: 1422</hi><hi rend="italic">–1429</hi>. London: H. M.
+            Stationery Office, 1933. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015066070072&amp;view=1up&amp;seq=7"
+              type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=mdp.39015066070072&amp;view=1up&amp;seq=7</ref>.</bibl>
+          <bibl>Steele, Robert, ed. <hi rend="italic">Secretum Secretorum cum Glossis et
+              Notulis</hi>. Oxford: Clarendon Press, 1920. Online at <ref
+              target="https://stacks.stanford.edu/file/druid:wn605tx2844/00002451_mixed.pdf"
+              type="external"
+              >https://stacks.stanford.edu/file/druid:wn605tx2844/00002451_mixed.pdf</ref>.</bibl>
+          <bibl>Strachey, J., ed. <hi rend="italic">Rotuli Parliamentorum; Ut et Petitiones, et
+              Placita in Parliamento</hi>. 6 vols. London: no publisher, 1767–1777.</bibl>
+          <bibl>Sutton, John William, ed. <hi rend="italic">The Dicts and Sayings of the
+              Philosophers</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 2006. Online
+            at <ref
+              target="https://d.lib.rochester.edu/teams/publication/sutton-the-dicts-and-sayings-of-the-philosophers"
+              type="external"
+              >https://d.lib.rochester.edu/teams/publication/sutton-the-dicts-and-sayings-of-the-philosophers</ref>.</bibl>
+        </listBibl>
+        <p style="heading">Secondary sources</p>
+        <listBibl>
+          <bibl>Armstrong, C. A. J. “Politics and the Battle of St. Albans, 1455.” <hi rend="italic"
+              >Bulletin of the Institute of Historical Research</hi> 33, no. 87 (May 1960), 1–72.
+            Online at <ref target="https://doi.org/10.1111/j.1468-2281.1960.tb02226.x"
+              type="external">https://doi.org/10.1111/j.1468-2281.1960.tb02226.x</ref>.</bibl>
+          <bibl>Baker, J. H., and J. S. Ringrose. <hi rend="italic">A Catalogue of English Legal
+              Manuscripts in Cambridge University Library</hi>. Woodbridge: The Boydell Press,
+            1996.</bibl>
+          <bibl>Bentley, Elna-Jean Young. “The Formulary of Thomas Hoccleve.” Ph.D. Dissertation:
+            Emory University, 1965.</bibl>
+          <bibl>Bernard, Edward, ed. <hi rend="italic">Catalogi Librorum Manuscriptorum Angliae et
+              Hiberniae in Unum Collecti: cum indice alphabetico</hi>. Vol. 2. Oxford: E Theatro
+            Sheldoniano, 1697.</bibl>
+          <bibl><hi rend="italic">Biblia Sacra Iuxta Vulgatam Versionem</hi>. Robert Weber, with B.
+            Fischer, J. Gribomont, H.F.D. Sparks, W. Thiele, eds. 5th ed. Rev. R. Gryson, 2007.
+            Online at <ref target="https://www.drbo.org/lvb/" type="external"
+              >https://www.drbo.org/lvb/</ref>.</bibl>
+          <bibl>Bratu, Cristian. “Mirrors for Princes: Western.” In <hi rend="italic">Handbook of
+              Medieval Studies: Terms — Methods — Trends</hi>. Ed. Albrecht Classen. Berlin: De
+            Gruyter, 2010. Pp. 1921–1949.</bibl>
+          <bibl>Brown, A. L. <hi rend="italic">The Governance of Late Medieval England
+              1272–1461</hi>. The Governance of England 3. London: Edward Arnold, 1989.</bibl>
+          <bibl>Bühler, Curt. <hi rend="italic">The Sources of the Court of Sapience</hi>. Beiträge
+            zur englischen philologie 23. Leipzig: Verlag von Bernhard Tauchnitz, 1932.</bibl>
+          <bibl>Bühler, Curt. “The <hi rend="italic">Liber de Dictis Philosophorum Antiquorum</hi>
+            and Common Proverbs in George Ashby’s Poems.” <hi rend="italic">Publications of the
+              Modern Language Association</hi> 65, no. 2 (March 1950), 282–89. Online at <ref
+              target="https://doi.org/10.2307/459469" type="external"
+              >https://doi.org/10.2307/459469</ref>.</bibl>
+          <bibl>Burrow, J. A. <hi rend="italic">The Ages of Man: A Study in Medieval Writing and
+              Thought</hi>. Oxford: Clarendon Press, 1986. Reprint: Oxford: Oxford University Press,
+            1988.</bibl>
+          <bibl>Cannon, Christopher. <hi rend="italic">From Literacy to Literature: England,
+              1300–1400</hi>. Oxford: Oxford University Press, 2016.</bibl>
+          <bibl>Carpenter, Christine. <hi rend="italic">The Wars of the Roses: Politics and the
+              Constitution in England, c. 1437–1509</hi>. Cambridge Medieval Textbooks. Cambridge:
+            Cambridge University Press, 1997.</bibl>
+          <bibl>Chaplais, Pierre. <hi rend="italic">English Royal Documents: King John–Henry VI,
+              1199–1461</hi>. Oxford: Clarendon Press, 1971.</bibl>
+          <bibl>Chaplais, Pierre. <hi rend="italic">English Diplomatic Practice in the Middle
+              Ages</hi>. London: Hambledon and London, 2003.</bibl>
+          <bibl>Darling, Linda T. “<hi rend="italic">Mirrors for Princes</hi> in Europe and the
+            Middle East: A Case of Historiographical Incommensurability.” In <hi rend="italic">East
+              Meets West in the Middle Ages and Early Modern Times: Transcultural Experiences in the
+              Premodern World</hi>. Ed. Albrecht Classen. Fundamentals of Medieval and Early Modern
+            Culture 14. Berlin: De Gruyter, 2013. Pp. 223–42.</bibl>
+          <bibl><hi rend="italic">The DIMEV: An Open-Access, Digital Edition of the Index of Middle
+              English Verse</hi>. Ed. Linne R. Mooney, Daniel W. Mosser, and Elizabeth Solopova,
+            with Deborah Thorpe, David Hill Radcliffe, and Len Hatfield. Online at <ref
+              target="https://www.dimev.net/index.html" type="external"
+              >https://www.dimev.net/index.html</ref>.</bibl>
+          <bibl>Douma, Aline. “George Ashby’s <hi rend="italic">Active Policy of a Prince</hi>:
+            Lancastrian Kingship and Political Advice in the Wars of the Roses.” Ph.D. Dissertation:
+            University of Groningen, 2023.</bibl>
+          <bibl>Dunn, Diana E. S. “Margaret [Margaret of Anjou] (1430–1482), Queen of England,
+            Consort of Henry VI.” In <hi rend="italic">ODNB</hi>. 2004. Online at <ref
+              target="https://doi.org/10.1093/ref:odnb/18049" type="external"
+              >https://doi.org/10.1093/ref:odnb/18049</ref>.</bibl>
+          <bibl>Foard, Glenn, T. L. Sutherland, A. Schmidt, Tony Pollard, and Mark Newman.
+            “Battlefields.” <hi rend="italic">Landscapes</hi> 4, no. 2 (2003), 5–43.</bibl>
+          <bibl>Giancarlo, Matthew. “Mirror, Mirror: Princely Hermeneutics, Practical
+            Constitutionalism, and the Genres of the English <hi rend="italic">Fürstenspiegel</hi>.”
+              <hi rend="italic">Exemplaria</hi> 27, no. 1–2 (Spring/Summer 2015), 35–54. Online at
+              <ref target="https://doi.org/10.1179/1041257315Z.00000000063" type="external"
+              >https://doi.org/10.1179/1041257315Z.00000000063</ref>.</bibl>
+          <bibl>Goodman, Anthony. <hi rend="italic">The Wars of the Roses: Military Activity and
+              English Society, 1452–97</hi>. London: Routledge &amp; Kegan Paul, 1981.</bibl>
+          <bibl>Graßnick, Ulrike. <hi rend="italic">Ratgeber des Königs: Fürstenspiegel und
+              Herrscherideal im spätmittelalterlichen England</hi>. Europäische Kulturstudien 15.
+            Köln: Böhlau, 2004.</bibl>
+          <bibl>Green, Richard Firth. <hi rend="italic">Poets and Princepleasers: Literature and the
+              English Court in the Late Middle Ages</hi>. Toronto: University of Toronto Press,
+            1980.</bibl>
+          <bibl>Griffiths, Ralph A. <hi rend="italic">The Reign of King Henry VI: The Exercise of
+              Royal Authority, 1422–1461</hi>. Berkeley: University of California Press,
+            1981.</bibl>
+          <bibl>Hicks, Michael. “Propaganda and the First Battle of St Albans, 1455.” <hi
+              rend="italic">Nottingham Medieval Studies</hi> 44, no. 1 (2000), 167–83.</bibl>
+          <bibl>Hicks, Michael. <hi rend="italic">The Wars of the Roses</hi>. New Haven, CT: Yale
+            University Press, 2010.</bibl>
+          <bibl>Holthausen, F. “Ashby-Studien. II.” <hi rend="italic">Anglia: Journal of English
+              Philology</hi> 45 (1921), 77–91.</bibl>
+          <bibl><hi rend="italic">The Holy Bible: Douay-Rheims Bible</hi>. Rockford, IL: Tan Books
+            and Publishers, 1899. Online at <ref target="https://www.drbo.org" type="external"
+              >https://www.drbo.org</ref>.</bibl>
+          <bibl>Kekewich, Margaret. “Edward IV, William Caxton, and Literary Patronage in Yorkist
+            England.” <hi rend="italic">The Modern Language Review</hi> 66, no. 3 (July 1971),
+            481–87. Online at <ref target="https://doi.org/10.2307/3723166" type="external"
+              >https://doi.org/10.2307/3723166</ref>.</bibl>
+          <bibl>Kekewich, Margaret. “Books of Advice for Princes in Fifteenth-Century England, With
+            Particular Reference to the Period 1450–1485.” Ph.D. Dissertation: The Open University,
+            1987.</bibl>
+          <bibl>Kekewich, Margaret. “George Ashby’s <hi rend="italic">The Active Policy of a
+              Prince</hi>: An Additional Source.” <hi rend="italic">The Review of English
+              Studies</hi> 41, no. 164 (November 1990), 533–35. Online at <ref
+              target="https://doi.org/10.1093/res/XLI.164.533" type="external"
+              >https://doi.org/10.1093/res/XLI.164.533</ref></bibl>
+          <bibl>Kekewich, Margaret. “The Lancastrian Court in Exile.” In Stratford, <hi
+              rend="italic">The Lancastrian Court</hi>. Pp. 95–110.</bibl>
+          <bibl>Kekewich, Margaret, Colin Richmond, Anne F. Sutton, Livia Visser-Fuchs, and John L.
+            Watts, eds. <hi rend="italic">The Politics of Fifteenth-Century England: John Vale’s
+              Book</hi>. Stroud: Alan Sutton, 1995.</bibl>
+          <bibl>Lambertini, Roberto. “Mirrors for Princes.” In <hi rend="italic">Encyclopedia of
+              Medieval Philosophy</hi>. Ed. Henrik Lagerlund. Dordrecht: Springer, 2011. Pp.
+            791–97.</bibl>
+          <bibl>Lawton, David. “Dullness and the Fifteenth Century.” <hi rend="italic">English
+              Literary History</hi> 54, no. 4 (Winter 1987), 761–99. Online at <ref
+              target="https://doi.org/10.2307/2873098" type="external"
+              >https://doi.org/10.2307/2873098</ref>.</bibl>
+          <bibl>Maurer, Helen E. <hi rend="italic">Margaret of Anjou: Queenship and Power in Late
+              Medieval England</hi>. Woodbridge: The Boydell Press, 2003.</bibl>
+          <bibl>Maurer, Helen, and B. M. Cron, eds. <hi rend="italic">The Letters of Margaret of
+              Anjou</hi>. Woodbridge: Boydell &amp; Brewer, 2019.</bibl>
+          <bibl>Meyer-Lee, Robert. “Laureates and Beggars in Fifteenth-Century English Poetry: The
+            Case of George Ashby.” <hi rend="italic">Speculum</hi> 79, no. 3 (July 2004), 688–726.
+            Online at <ref target="https://doi.org/10.1017/S0038713400089879" type="external"
+              >https://doi.org/10.1017/S0038713400089879</ref>.</bibl>
+          <bibl>Meyer-Lee, Robert. <hi rend="italic">Poets and Power from Chaucer to Wyatt</hi>.
+            Cambridge Studies in Medieval Literature. Cambridge: Cambridge University Press,
+            2007.</bibl>
+          <bibl><hi rend="italic">Middle English Dictionary</hi>. In <hi rend="italic">Middle
+              English Compendium</hi>. Ed. Frances McSparran et al. Ann Arbor: University of
+            Michigan Library, 2001–2018. Online at <ref target="http://quod.lib.umich.edu/m/med/"
+              type="external">http://quod.lib.umich.edu/m/med/</ref>.</bibl>
+          <bibl>Mortimer, Nigel. <hi rend="italic">John Lydgate’s Fall of Princes: Narrative Tragedy
+              in its Literary and Political Contexts</hi>. Oxford: Clarendon Press, 2005. Reprint:
+            Oxford: Oxford University Press, 2009.</bibl>
+          <bibl>Nederman, Cary J. “John of Salisbury’s Political Theory.” In <hi rend="italic">A
+              Companion to John of Salisbury</hi>. Ed. Christoph Grellard and Frédérique Lachaud.
+            Brill’s Companions to the Christian Tradition 57. Leiden: Brill, 2015. Pp.
+            258–88.</bibl>
+          <bibl>Nuttall, Jenni. <hi rend="italic">The Creation of Lancastrian Kingship: Literature,
+              Language and Politics in Late Medieval England</hi>. Cambridge Studies in Medieval
+            Literature. Cambridge: Cambridge University Press, 2007.</bibl>
+          <bibl>Nuttall, Jenni. “Margaret of Anjou as Patron of English Verse?: The <hi
+              rend="italic">Liber Proverbiorum</hi> and the <hi rend="italic">Romans of
+              Partenay</hi>.” <hi rend="italic">The Review of English Studies</hi> 67, no. 281
+            (September 2016), 636–59. Online at <ref target="https://doi.org/10.1093/res/hgw065"
+              type="external">https://doi.org/10.1093/res/hgw065</ref>.</bibl>
+          <bibl>Ormrod, Mark. “‘Common Profit’ and ‘The Profit of the King and Kingdom’: Parliament
+            and the Development of Political Language in England, 1250–1450.” <hi rend="italic"
+              >Viator</hi> 46, no. 2 (May 2015), 219–52. Online at <ref
+              target="https://doi.org/10.1484/J.VIATOR.5.105368" type="external"
+              >https://doi.org/10.1484/J.VIATOR.5.105368</ref>.</bibl>
+          <bibl>Otway-Ruthven, J. <hi rend="italic">The King’s Secretary and the Signet Office in
+              the XV Century</hi>. Cambridge: Cambridge University Press, 1939.</bibl>
+          <bibl><hi rend="italic">Oxford Dictionary of National Biography</hi>. Oxford: University
+            of Oxford. Online at 
+            <ref target="http://www.oxforddnb.com" type="external">www.oxforddnb.com</ref>.</bibl>
+          <bibl><hi rend="italic">Oxford English Dictionary</hi>. Oxford: University of Oxford.
+            Online at <ref target="https://www.oed.com" type="external"
+            >https://www.oed.com</ref>.</bibl>
+          <bibl>Payling, Simon. “Ashby, George (d. 1475), of Lapworth, Warws. and Harefield, Mdx.”
+            In <hi rend="italic">The History of Parliament: The House of Commons, 1422–1461, Volume
+              3</hi>. Ed. Linda Clark. Cambridge: Cambridge University Press, 2020. Pp.
+            93–96.</bibl>
+          <bibl>Perkins, Nicholas. “Representing Advice in Lydgate.” In Stratford, <hi rend="italic"
+              >The Lancastrian Court</hi>. Pp. 173–91.</bibl>
+          <bibl>Rose, Jonathan. <hi rend="italic">Maintenance in Medieval England</hi>. Cambridge
+            Studies in English Legal History. Cambridge: Cambridge University Press, 2017.</bibl>
+          <bibl>Scanlon, Larry. <hi rend="italic">Narrative, Authority, and Power: The Medieval
+              Exemplum and the Chaucerian Tradition</hi>. Cambridge Studies in Medieval Literature
+            20. Cambridge: Cambridge University Press, 1994.</bibl>
+          <bibl>Scattergood, John. “The Date and Composition of George Ashby’s Poems.” <hi
+              rend="italic">Leeds Studies in English</hi> 21 (1990), 167–76.</bibl>
+          <bibl>Scattergood, John. “Peter Idley and George Ashby.” In <hi rend="italic">A Companion
+              to Fifteenth-Century Poetry</hi>. Ed. Julia Boffey and A. S. G. Edwards. Cambridge: D.
+            S. Brewer, 2013. Pp. 113–26.</bibl>
+          <bibl>Sobecki, Sebastian. <hi rend="italic">Last Words: The Public Self and the Social
+              Author in Late Medieval England</hi>. Oxford Textual Perspectives. Oxford: Oxford
+            University Press, 2019.</bibl>
+          <bibl>Sobecki, Sebastian. “Communities of Practice: Thomas Hoccleve, London Clerks, and
+            Literary Production.” <hi rend="italic">Journal of the Early Book Society</hi> 24
+            (2021), 51–106.</bibl>
+          <bibl>Sobecki, Sebastian. “The Handwriting of Fifteenth-Century Signet Clerks and the
+            King’s French Secretaries.” In <hi rend="italic">Scribal Cultures in Late Medieval
+              England: Essays in Honour of Linne R. Mooney</hi>. Ed. M. Connolly, H. James-Maddocks,
+            and D. Pearsall. York Manuscript and Early Print Studies 3. Cambridge: D. S. Brewer,
+            2022. Pp. 82–124.</bibl>
+          <bibl>Stratford, Jenny, ed. <hi rend="italic">The Lancastrian Court: Proceedings of the
+              2001 Harlaxton Symposium</hi>. Harlaxton Medieval Studies 13. Donnington: Shaun Tyas,
+            2003.</bibl>
+          <bibl>Strohm, Paul. <hi rend="italic">England’s Empty Throne: Usurpation and the Language
+              of Legitimation, 1399–1422</hi>. New Haven, CT: Yale University Press, 1998.</bibl>
+          <bibl>Strohm, Paul. <hi rend="italic">Politique: Languages of Statecraft between Chaucer
+              and Shakespeare</hi>. Notre Dame, IN: University of Notre Dame Press, 2005.</bibl>
+          <bibl>Tang, Frank. “Machiavelli’s Image of the Ruler: <hi rend="italic">Il Principe</hi>
+            and the Tradition of the Mirror for Princes.” <hi rend="italic">Yearbook of European
+              Studies</hi> 8 (1995), 187–200.</bibl>
+          <bibl>Tout, T. F. <hi rend="italic">Chapters in the Administrative History of Mediaeval
+              England: The Wardrobe, The Chamber and the Small Seals</hi>. Vol. 5. Historical Series
+            57. Manchester: Manchester University Press, 1930.</bibl>
+          <bibl>Turner, Marion. <hi rend="italic">Chaucer: A European Life</hi>. Princeton, NJ:
+            Princeton University Press, 2019.</bibl>
+          <bibl>Vogüé, Adalbert de, and Jean Neufville. <hi rend="italic">La Règle de Saint
+              Benoît</hi>. Vol. 1. Sources Chrétiennes 181; Série des Textes Monastiques
+            d’Occident 34. Paris: Éditions du Cerf, 1972.</bibl>
+          <bibl>Wakelin, Daniel. <hi rend="italic">Humanism, Reading, and English Literature
+              1430–1530</hi>. Oxford: Oxford University Press, 2007.</bibl>
+          <bibl>Walker, Simon. “Between Church and Crown: Master Richard Andrew, King’s Clerk.” <hi
+              rend="italic">Speculum</hi> 74, no. 4 (October 1999), 956–91. Online at <ref
+              target="https://doi.org/10.2307/2886970" type="external"
+              >https://doi.org/10.2307/2886970</ref>.</bibl>
+          <bibl>Watts, John. “Ideas, Principles and Politics.” In <hi rend="italic">The Wars of the
+              Roses</hi>. Ed. A. J. Pollard. Problems in Focus. London: MacMillan Press, 1995. Pp.
+            110–33.</bibl>
+          <bibl>Watts, John. <hi rend="italic">Henry VI and the Politics of Kingship</hi>.
+            Cambridge: Cambridge University Press, 1996.</bibl>
+          <bibl>Watts, John. “Pole, William de la, First Duke of Suffolk (1396–1450).” In <hi
+              rend="italic">ODNB</hi>. 2004. Online at <ref
+              target="https://doi.org/10.1093/ref:odnb/22461" type="external"
+              >https://doi.org/10.1093/ref:odnb/22461</ref>.</bibl>
+          <bibl>Whiting, Bartlett J., and Helen Wescott Whiting. <hi rend="italic">Proverbs,
+              Sentences, and Proverbial Phrases from English Writings Mainly Before 1500</hi>.
+            Cambridge: Belknap Press of Harvard University Press, 1968.</bibl>
+          <bibl>Williams, Steven J. <hi rend="italic">The Secret of Secrets: The Scholarly Career of
+              a Pseudo-Aristotelian Text in the Latin Middle Ages</hi>. Ann Arbor: University of
+            Michigan Press, 2003.</bibl>
+          <bibl>Williams, Steven J. “Giving Advice and Taking it: The Reception by Rulers of the
+            Pseudo-Aristotelian <hi rend="italic">Secretum Secretorum</hi> as a <hi rend="italic"
+              >Speculum Principis</hi>.” In <hi rend="italic">Consilium: Teorie e pratiche del
+              consigliare nella cultura medievale</hi>. Ed. Carla Casagrande, Chiara Crisciani, and
+            Silvana Vecchio. Micrologus’ Library 10. Firenze: Sismel, 2004. Pp. 139–80.</bibl>
+          <bibl>Woolgar, C. M. <hi rend="italic">The Great Household in Late Medieval England</hi>.
+            New Haven, CT: Yale University Press, 1999.</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

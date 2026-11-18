@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Douma-Ashby-Export-06-Active-Policy-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes</title><author>Douma, Aline</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Anderson, Nick</persName><resp from="2025-11" to="2026-02">Checked and corrected bibliographic references</resp><resp from="2025-11" to="2026-02">Ensured adherence to METS Style Guide</resp><resp from="2025-11" to="2026-02">Entered corrections for print edition</resp></respStmt><respStmt><persName>Espinosa, Juan</persName><resp from="2026-06" to="2026-11">Audited documents prior to print/export</resp><resp from="2025-12" to="2026-01">Checked and corrected bibliographic references</resp><resp from="2026-09" to="2026-11">Collected metadata</resp><resp from="2026-11" to="2026-11">Encoded TEI</resp><resp from="2025-09" to="2026-10">Ensured adherence to METS Style Guide</resp><resp from="2026-10" to="2026-10">Entered corrections for digital edition</resp><resp from="2025-09" to="2026-10">Entered corrections for print edition</resp><resp from="2026-10" to="2026-10">Formatted for print edition</resp><resp from="2026-10" to="2026-10">Formatted for XML export</resp><resp from="2025-09" to="2025-10">Reviewed transcription of base manuscript or early print witness</resp><resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2025-07" to="2025-07">Copyedited and proofread</resp><resp from="2025-07" to="2025-07">Ensured adherence to METS Style Guide</resp><resp from="2025-07" to="2025-07">Reviewed edition for consistency and audience</resp><resp from="2025-07" to="2025-07">Reviewed edition for content and scholarship</resp><resp from="2025-07" to="2025-07">Wrote reader report</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2026-05" to="2026-10">Audited documents prior to print/export</resp><resp from="2026-05" to="2026-06">Checked and corrected bibliographic references</resp><resp from="2026-05" to="2026-06">Copyedited and proofread</resp><resp from="2025-07" to="2026-05">Ensured adherence to METS Style Guide</resp><resp from="2026-05" to="2026-06">Entered corrections for print edition</resp><resp from="2026-05" to="2026-06">Formatted for print edition</resp><resp from="2026-05" to="2026-06">Formatted for XML export</resp><resp from="2025-07" to="2026-05">Reviewed edition for consistency and audience</resp><resp from="2025-07" to="2025-08">Reviewed edition for content and scholarship</resp><resp from="2025-07" to="2026-05">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2026</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Texts Series</title><respStmt><persName>Nick Anderson</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Lindy Brady</persName><orgName>Edge Hill University (UK)</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Digital Publishing Specialist, Editorial Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Juan Espinosa</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John A. Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Richard Godden</persName><orgName>Louisiana State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Carissa Harris</persName><orgName>Temple University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Daniel Kephart</persName><orgName>University of Rochester</orgName><resp>Senior Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sierra Lomuto</persName><orgName>Rowan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Tamsyn Mahoney-Steel</persName><orgName>University of Central Lancashire</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Kara L. McShane</persName><orgName>Ursinus College</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>James Norris</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steven Rozenski</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Executive Director, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Kexin Zhang</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Ashby, George</author><editor>Douma, Aline</editor><title>George Ashby's Active Policy of a Prince and Dicta et Opiniones Diversorum Philosophorum </title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2026</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/douma-ashby/blob/main/douma-ashby-export-corrections-log.xlsx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>First edition published in 2026</change></revisionDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Douma-Ashby-Export-06-Active-Policy-Tnotes"/><div type="text">
+ <p style="bodyfirst">All translations in the notes, unless otherwise specified, are mine.</p>
+ <p style="heading4">Paragraph 1</p>
+ <note type="tnote" n="1"><space rend="indent1"/><p><hi rend="italic">Presens</hi><hi rend="subscript">1</hi>. The initial letter <hi rend="italic">P</hi> is inserted in a square blank space in the MS running seven lines from the top. Clearly Ashby’s intention was that an illuminated initial should be added here, but this never happened.</p></note>
+ <note type="tnote" n="2"><space rend="indent1"/><p><hi rend="italic">compilacio . . . suum</hi>. This first folio of the manuscript is damaged: parts of the text where the ink has faded are illegible.</p></note>
+ <note type="tnote" n="3">1<space rend="indent1"/><p><hi rend="italic">O</hi>. This initial letter is again written in a square blank space, intended for an illuminated initial, running the first four lines of this stanza.</p></note>
+ <note type="tnote" n="4">79<space rend="indent1"/><p><hi rend="italic">and helle . . .</hi> The last word of this line is illegible in the MS, though from the rhyme scheme it follows that it should end in -<hi rend="italic">yne</hi> or -<hi rend="italic">ine</hi>.</p></note>
+ <note type="tnote" n="5">85<space rend="indent1"/><p><hi rend="italic">Right</hi><hi rend="subscript">1</hi>. The initial letter <hi rend="italic">R</hi> is written in a square blank space, intended for an illuminated initial, running the first four lines of this stanza.</p></note>
+ <note type="tnote" n="6">89<space rend="indent1"/><p><hi rend="italic">Thaier roiaulmes . . .</hi> The rest of this line in the MS is illegible. Bateson: <hi rend="italic">with grace especial (?)</hi>.</p></note>
+ <note type="tnote" n="7">92<space rend="indent1"/><p><hi rend="italic">youre highnesse Edward . . .</hi> So MS. There seems to be another word following the name of Edward, but it is no longer legible. The meter of the line also suggests there should be at least one more syllable in this line. There is a later two-word addition written at the end of this line, in what seems to be a different fifteenth-century, or perhaps later, hand. The first word is clearly <hi rend="italic">by</hi>, but the second word is too badly faded for a definitive reading. Bateson reads this addition as <hi rend="italic">by name</hi> and includes it in the main text of the stanza (<hi rend="italic">I mene to youre highnesse Edwardes by name</hi>), but this cannot be the case. First of all, this addition is not in Ashby’s hand and thus not part of the original text. Secondly, the second word ends in -<hi rend="italic">le</hi>. A reconstruction of this line on the basis of the rhyme scheme is not possible, since the last word of line 94 is also illegible.</p></note>
+ <note type="tnote" n="8">93<space rend="indent1"/><p><hi rend="italic">heire to the high . . .</hi> So MS, but the last word of this line is again illegible. Bateson supplies <hi rend="italic">maiestie (?)</hi> here, which is certainly possible: it needs to rhyme with <hi rend="italic">charitee</hi> and <hi rend="italic">mayestee</hi>, and occasionally Ashby uses the same word to fit the rhyme.</p></note>
+ <note type="tnote" n="9">94<space rend="indent1"/><p><hi rend="italic">Kynge Henry</hi>. So MS. There are probably one or more words missing at the end of this line, but they are virtually invisible. Bateson suggests <hi rend="italic">&amp; dame</hi>, presumably to rhyme with her reading of <hi rend="italic">by name </hi>in line 92.</p></note>
+ <note type="tnote" n="10">96<space rend="indent1"/><p><hi rend="italic">mayestee</hi>. The last letters of the line are again illegible, but based on the context and rhyme scheme this word can be reconstructed as <hi rend="italic">mayestee</hi>.</p></note>
+ <note type="tnote" n="11">127<space rend="indent1"/><p><hi rend="italic">Of</hi>. The initial letter <hi rend="italic">O</hi> is written in a square blank space, intended for an illuminated initial, running the first four lines of this stanza.</p></note>
+ <note type="tnote" n="12">218<space rend="indent1"/><p><hi rend="italic">Sithe</hi>. The initial letter <hi rend="italic">S</hi> is written in a square blank space, intended for an illuminated initial, running the first four lines of this stanza.</p></note>
+ <note type="tnote" n="13">270<space rend="indent1"/><p><hi rend="italic">quaint</hi>. MS: <hi rend="italic">quainr</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="14"><space rend="indent1"/><p><hi rend="italic">soubtilitees</hi>. This line in the manuscript is faded, making this word difficult to make out. Bateson reads <hi rend="italic">socibbilitees</hi> (“an expression of sociability, a friendly discourse,” <hi rend="italic">MED</hi>, <hi rend="italic">socibbilite</hi> (n.)).</p></note>
+ <p style="heading4">Paragraph 3</p>
+ <note type="tnote" n="15"><space rend="indent1"/><p><hi rend="italic">Fundamentum timoris dei est pietas. Hec Pitagoras</hi>. The quotation appears in the margin, unlike virtually all the other Latin passages, and so is possibly inserted later.</p></note>
+ <note type="tnote" n="16">351<space rend="indent1"/><p><hi rend="italic">perfourmyng</hi>. MS: <hi rend="italic">perfourmyg</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 4</p>
+ <note type="tnote" n="17"><space rend="indent1"/><p><hi rend="italic">loquimini</hi>. So Franceschini (p. 405). MS: <hi rend="italic">loquimin</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="18">373<space rend="indent1"/><p><hi rend="italic">Now</hi>. The initial letter <hi rend="italic">N</hi> is written in a square blank space, intended for an illuminated initial, running the first four lines of this stanza.</p></note>
+ <note type="tnote" n="19">455<space rend="indent1"/><p><hi rend="italic">changeable</hi>. MS: <hi rend="italic">chageabe</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="20">489<space rend="indent1"/><p><hi rend="italic">tarying</hi>. MS: <hi rend="italic">no tarying</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="21">527<space rend="indent1"/><p><hi rend="italic">If</hi>. MS: <hi rend="italic">Iif</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="22">560<space rend="indent1"/><p><hi rend="italic">the</hi>. MS: <hi rend="italic">be</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="23">626<space rend="indent1"/><p><hi rend="italic">descent</hi>. MS: <hi rend="italic">dscent</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="24">651<space rend="indent1"/><p><hi rend="italic">sufficiantly</hi>. MS: <hi rend="italic">sufficianly</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 5</p>
+ <note type="tnote" n="25"><space rend="indent1"/><p><hi rend="italic">bene</hi>. MS: <hi rend="italic">benet</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="26">655<space rend="indent1"/><p><hi rend="italic">therwith</hi>. MS: <hi rend="italic">thrwith</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="27">677<space rend="indent1"/><p><hi rend="italic">any</hi>. MS: <hi rend="italic">a any</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="28">685<space rend="indent1"/><p><hi rend="italic">acceptable</hi>. MS: <hi rend="italic">acceptabe</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="29">688–94<space rend="indent1"/><p><hi rend="italic">Wo worthe debate . . . no favour have</hi>. This entire stanza is borrowed from the <hi rend="italic">Court of Sapience</hi>, an anonymous wisdom poem from the mid-fifteenth century. See lines 463–69 in Harvey, ed., <hi rend="italic">The Court of Sapience,</hi> p. 18.</p></note>
+ <note type="tnote" n="30">697<space rend="indent1"/><p><hi rend="italic">Observyng</hi>. MS: <hi rend="italic">Obsevyng</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="31">713<space rend="indent1"/><p><hi rend="italic">better</hi>. MS: <hi rend="italic">bettes</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="32">726<space rend="indent1"/><p><hi rend="italic">securly</hi>. MS: <hi rend="italic">serurly</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="33">734<space rend="indent1"/><p><hi rend="italic">had never be</hi>. MS: <hi rend="italic">had be never be</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="34">789<space rend="indent1"/><p><hi rend="italic">governaunce</hi>. MS: <hi rend="italic">governannce</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 7</p>
+ <note type="tnote" n="35"><space rend="indent1"/><p><hi rend="italic">de delicto. Et qui impediet</hi>. So MS. A part of this quotation is almost completely faded in the manuscript, so that the words between <hi rend="italic">de del . . .</hi> and <hi rend="italic">impediet</hi> are no longer legible. I have supplied <hi rend="italic">. . . licto</hi>. <hi rend="italic">Et qui</hi> is from Franceschini, p. 414.</p></note>
+ <note type="tnote" n="36">801<space rend="indent1"/><p><hi rend="italic">more</hi>. MS: <hi rend="italic">moe</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="37">888<space rend="indent1"/><p><hi rend="italic">felicité</hi>. MS: <hi rend="italic">felite</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="38">912–15<space rend="indent1"/><p><hi rend="italic">Thinges past, remembre . . . peise and discerne</hi>. These four lines are directly borrowed from “Seven Wise Counsels” (<hi rend="italic">DIMEV</hi> 939; see Kekewich, “George Ashby’s <hi rend="italic">The Active Policy</hi>,” p. 534).</p></note>
+ <p style="heading4">Paragraph 11</p>
+ <note type="tnote" n="39"><space rend="indent1"/><p><hi rend="italic">Non</hi><hi rend="subscript">1</hi>. The initial letter <hi rend="italic">N</hi> is written in a square blank space, intended for an illuminated initial.</p></note>
+ <p style="heading4">Paragraph 12</p>
+ <note type="tnote" n="40"><space rend="indent1"/><p><hi rend="italic">rectum</hi>. So Franceschini (p. 421). MS: <hi rend="italic">retum</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="41"><space rend="indent1"/><p><hi rend="italic">voluntates</hi>. MS: <hi rend="italic">voluntes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 13</p>
+ <note type="tnote" n="42"><space rend="indent1"/><p><hi rend="italic">procuratorem</hi>. So Franceschini (p. 528). MS: <hi rend="italic">procutorem</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 14</p>
+ <note type="tnote" n="43"><space rend="indent1"/><p><hi rend="italic">vereatur</hi>. So Franceschini (p. 498). MS: <hi rend="italic">veatur</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="44"><space rend="indent1"/><p><hi rend="italic">imitantur</hi>. So Franceschini (p. 498). MS: <hi rend="italic">imitatur</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="45">946<space rend="indent1"/><p><hi rend="italic">other</hi>. MS: <hi rend="italic">othr</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 15</p>
+ <note type="tnote" n="46"><space rend="indent1"/><p><hi rend="italic">puerorum . . . puerorum</hi>. MS: <hi rend="italic">puerum . . . puerum</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="47"><space rend="indent1"/><p><hi rend="italic">imitantur</hi>. So Franceschini (p. 503). MS: <hi rend="italic">imitatur</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="48">976<space rend="indent1"/><p><hi rend="italic">is</hi>. MS: <hi rend="italic">it</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="49">996<space rend="indent1"/><p><hi rend="italic">correcte</hi>. MS: <hi rend="italic">correte</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 24</p>
+ <note type="tnote" n="50"><space rend="indent1"/><p><hi rend="italic">utendo</hi><hi rend="subscript">1</hi>. So Franceschini (p. 495). MS: <hi rend="italic">vetendo</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="51"><space rend="indent1"/><p><hi rend="italic">consurgit</hi>. So Franceschini (p. 495). MS: missing. Emended for sense.</p></note>
+ <note type="tnote" n="52">1018<space rend="indent1"/><p><hi rend="italic">inconveniencis</hi>. MS: <hi rend="italic">inconvenientis</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="53">1068<space rend="indent1"/><p><hi rend="italic">Ches</hi>. MS: <hi rend="italic">Thes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 35</p>
+ <note type="tnote" n="54"><space rend="indent1"/><p><hi rend="italic">Igitur ab</hi>. MS: <hi rend="italic">igitur a</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 38</p>
+ <note type="tnote" n="55"><space rend="indent1"/><p><hi rend="italic">Hillaritas est intelligendum signum et e contra</hi>. So MS. The sense of the Latin phrase here is obscure. The <hi rend="italic">Liber</hi> (Franceschini, p. 412) gives more clarity, reading: <hi rend="italic">intelligis que dico? Et respondit: sic; et dixit: non video quod tu intelligas. Respondit discipulus: qualiter vides hoc? Dixit: non video te ylarem, et intelligendi signum est ylaritas</hi>. (Do you understand what I am saying? And he responds: yes; and he says: I do not see that you understand it. The pupil responds: how do you see this? And he says: I do not see you cheerful, and cheerfulness is the sign of understanding.) The stanza following this quotation in the <hi rend="italic">Dicta</hi> (lines 1101–07) bears little similarity to the meaning of the original passage in the <hi rend="italic">Liber</hi>, a didactic exchange interspersed between lessons on tempering anger with patience and the virtue of modesty in children. These lines from which Ashby is quoting here are omitted both by Scrope and by the anonymous translator of the Helmingham Hall manuscript in their Middle English translations of the <hi rend="italic">Dicts and Sayings of the Philosophers</hi> (see Bühler, ed., <hi rend="italic">The Dicts and Sayings</hi>, pp. 26–27, and Sutton, ed., <hi rend="italic">The Dicts and Sayings</hi>, lines 216–28 of 2. Hermes, respectively).</p></note>
+ <note type="tnote" n="56">1108<space rend="indent1"/><p><hi rend="italic">displease</hi>. MS: <hi rend="italic">displea</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="57">1113<space rend="indent1"/><p><hi rend="italic">displeasance</hi>. MS: <hi rend="italic">dispeasance</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 40</p>
+ <note type="tnote" n="58"><space rend="indent1"/><p><hi rend="italic">aliquid</hi>. So Franceschini (p. 411). MS: <hi rend="italic">ad</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 41</p>
+ <note type="tnote" n="59"><space rend="indent1"/><p><hi rend="italic">superbia</hi>. So Franceschini (p. 415). MS: <hi rend="italic">superia</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 53</p>
+ <note type="tnote" n="60"><space rend="indent1"/><p><hi rend="italic">equitatem</hi>. So Franceschini (p. 474). MS: <hi rend="italic">equitam</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 56</p>
+ <note type="tnote" n="61"><space rend="indent1"/><p><hi rend="italic">laborare</hi>. So Franceschini (p. 475). MS: <hi rend="italic">labore</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="62">1229<space rend="indent1"/><p><hi rend="italic">cure</hi>. MS: <hi rend="italic">crure</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="63">1244<space rend="indent1"/><p><hi rend="italic">accomplice</hi>. MS: <hi rend="italic">accompice</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 60</p>
+ <note type="tnote" n="64"><space rend="indent1"/><p><hi rend="italic">detrimentum</hi>. So Franceschini (p. 479). MS: <hi rend="italic">detrimetum</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="65">1261<space rend="indent1"/><p><hi rend="italic">distourbance</hi>. MS: <hi rend="italic">distourblance</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 63</p>
+ <note type="tnote" n="66"><space rend="indent1"/><p><hi rend="italic">aliquid</hi>. So Franceschini (p. 480). MS: <hi rend="italic">ad</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 70</p>
+ <note type="tnote" n="67"><space rend="indent1"/><p><hi rend="italic">investigare</hi>. So Franceschini (p. 399). MS: <hi rend="italic">investare</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="68"><space rend="indent1"/><p><hi rend="italic">erit</hi>. So Franceschini (p. 399). MS: missing. Emended for sense.</p></note>
+ <note type="tnote" n="69">1326<space rend="indent1"/><p><hi rend="italic">knyghthode</hi>. MS: <hi rend="italic">knyghode</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 73</p>
+ <note type="tnote" n="70"><space rend="indent1"/><p><hi rend="italic">vagacionibus</hi>. Franceschini: <hi rend="italic">vagationibus</hi> (p. 400). MS: <hi rend="italic">vagacoibus</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 75</p>
+ <note type="tnote" n="71"><space rend="indent1"/><p><hi rend="italic">eum</hi><hi rend="subscript">1</hi>. So Franceschini (p. 400). MS: <hi rend="italic">cum</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="72"><space rend="indent1"/><p><hi rend="italic">ab eo</hi>. So Franceschini (p. 400). MS: missing. Emended for sense.</p></note>
+ <note type="tnote" n="73"><space rend="indent1"/><p><hi rend="italic">detestetur</hi>. So Franceschini (p. 400). MS: <hi rend="italic">destetur</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="74">1363<space rend="indent1"/><p><hi rend="italic">feliship</hi>. MS: <hi rend="italic">seliship</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="75">1391<space rend="indent1"/><p><hi rend="italic">whiche</hi>. MS: <hi rend="italic">whiche whiche</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 86</p>
+ <note type="tnote" n="76"><space rend="indent1"/><p><hi rend="italic">requiras</hi>. So Franceschini (p. 497). MS: <hi rend="italic">requirens</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="77"><space rend="indent1"/><p><hi rend="italic">miliciam</hi>. So Franceschini (p. 497). MS: <hi rend="italic">maliciam</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="78">1444<space rend="indent1"/><p><hi rend="italic">strenger</hi>. MS: <hi rend="italic">stenger</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="79">1454<space rend="indent1"/><p><hi rend="italic">the</hi>. MS: <hi rend="italic">th</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 88</p>
+ <note type="tnote" n="80"><space rend="indent1"/><p><hi rend="italic">Mundus</hi>. So Franceschini (p. 427). MS: <hi rend="italic">mumdus</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="81">1458<space rend="indent1"/><p><hi rend="italic">not</hi>. MS: missing. Emended for sense.</p></note>
+ <note type="tnote" n="82">1466<space rend="indent1"/><p><hi rend="italic">scarce</hi>. MS: <hi rend="italic">stace</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 92</p>
+ <note type="tnote" n="83"><space rend="indent1"/><p><hi rend="italic">perduntur</hi><hi rend="subscript">2</hi>. So Franceschini (p. 467). MS: <hi rend="italic">perdunt</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 94</p>
+ <note type="tnote" n="84"><space rend="indent1"/><p><hi rend="italic">cupido</hi>. So Franceschini (p. 535). MS: <hi rend="italic">opido</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="85">1499<space rend="indent1"/><p><hi rend="italic">confidence</hi>. MS: <hi rend="italic">confidende</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 95</p>
+ <note type="tnote" n="86"><space rend="indent1"/><p><hi rend="italic">solicitum</hi>. MS: <hi rend="italic">solictum</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="87">1548<space rend="indent1"/><p><hi rend="italic">children</hi>. MS: <hi rend="italic">childred</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 102</p>
+ <note type="tnote" n="88"><space rend="indent1"/><p><hi rend="italic">existentes</hi>. So Franceschini (p. 407). MS: <hi rend="italic">existes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 105</p>
+ <note type="tnote" n="89"><space rend="indent1"/><p><hi rend="italic">mendoso</hi>. So Franceschini (p. 416). MS: <hi rend="italic">men</hi>, followed by a blank space. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 106</p>
+ <note type="tnote" n="90"><space rend="indent1"/><p><hi rend="italic">gratificantes</hi>. So Franceschini (p. 406). MS: <hi rend="italic">gratificates</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="91">1582<space rend="indent1"/><p><hi rend="italic">be</hi>. MS: missing, but I have added it to complete the sentence.</p></note>
+ <note type="tnote" n="92">1595<space rend="indent1"/><p><hi rend="italic">folkes</hi>. MS: <hi rend="italic">forlkes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 110</p>
+ <note type="tnote" n="93"><space rend="indent1"/><p><hi rend="italic">tractetis amicos</hi>. Franceschini: <hi rend="italic">acquiratis amicos</hi> (p. 454). MS: <hi rend="italic">tragemicos</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="94">1629<space rend="indent1"/><p><hi rend="italic">ye</hi>. MS: missing, but I have added it to complete the sentence.</p></note>
+ <note type="tnote" n="95">1643<space rend="indent1"/><p><hi rend="italic">take</hi>. MS: <hi rend="italic">tate</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 117</p>
+ <note type="tnote" n="96"><space rend="indent1"/><p><hi rend="italic">voluntatem</hi>. So Franceschini (p. 453). MS: <hi rend="italic">voluntem</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 118</p>
+ <note type="tnote" n="97"><space rend="indent1"/><p><hi rend="italic">pedes</hi>. So Franceschini (p. 438). MS: <hi rend="italic">perdes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 119</p>
+ <note type="tnote" n="98"><space rend="indent1"/><p><hi rend="italic">familiaritas</hi>. MS: <hi rend="italic">familialitas</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="99">1679<space rend="indent1"/><p><hi rend="italic">good</hi>. MS: <hi rend="italic">goo</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 124</p>
+ <note type="tnote" n="100"><space rend="indent1"/><p><hi rend="italic">sibi</hi>. So Franceschini (p. 453). MS: <hi rend="italic">si</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 127</p>
+ <note type="tnote" n="101"><space rend="indent1"/><p><hi rend="italic">cupias</hi>. So Franceschini (p. 508). MS: <hi rend="italic">cupiat</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="102">1714<space rend="indent1"/><p><hi rend="italic">you</hi>. MS: <hi rend="italic">your</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="103">1727<space rend="indent1"/><p><hi rend="italic">liffes</hi>. MS: <hi rend="italic">lffes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 134</p>
+ <note type="tnote" n="104"><space rend="indent1"/><p><hi rend="italic">declinant</hi>. So Franceschini (p. 549). MS: <hi rend="italic">decinant</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="105">1777<space rend="indent1"/><p><hi rend="italic">is</hi>. MS: <hi rend="italic">in</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 137</p>
+ <note type="tnote" n="106"><space rend="indent1"/><p><hi rend="italic">referant</hi>. So Franceschini (p. 578). MS: <hi rend="italic">refrenant</hi> (they refrain). Emended for sense. This reading also fits better with Ashby’s own translation.</p></note>
+ <p style="heading4">Paragraph 138</p>
+ <note type="tnote" n="107"><space rend="indent1"/><p><hi rend="italic">deo</hi>. So Franceschini (p. 571). MS: <hi rend="italic">de</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="108"><space rend="indent1"/><p><hi rend="italic">sustine</hi>. MS: <hi rend="italic">stine</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="109">1793<space rend="indent1"/><p><hi rend="italic">observed</hi>. MS: <hi rend="italic">oserved</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="110">1796<space rend="indent1"/><p><hi rend="italic">covenable</hi>. MS: <hi rend="italic">conable</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="111">1797<space rend="indent1"/><p><hi rend="italic">be</hi>. MS: missing, but I added it for ease of reading.</p></note>
+ <p style="heading4">Paragraph 141</p>
+ <note type="tnote" n="112"><space rend="indent1"/><p><hi rend="italic">consuetudinibus</hi>. So Franceschini (p. 415). MS: <hi rend="italic">consutudinibus</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 143</p>
+ <note type="tnote" n="113"><space rend="indent1"/><p><hi rend="italic">facere</hi>. MS: <hi rend="italic">facere facere</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 144</p>
+ <note type="tnote" n="114"><space rend="indent1"/><p><hi rend="italic">possibilitatem</hi>. So Franceschini (p. 473). MS: <hi rend="italic">possibiliatem</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="115">1846<space rend="indent1"/><p><hi rend="italic">dispocision</hi>. MS: <hi rend="italic">dispocion</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="116">1847<space rend="indent1"/><p><hi rend="italic">conserven</hi>. MS: <hi rend="italic">corserven</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="117">1852<space rend="indent1"/><p><hi rend="italic">chaungeable</hi>. MS: <hi rend="italic">claungeable</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 146</p>
+ <note type="tnote" n="118"><space rend="indent1"/><p><hi rend="italic">loqui dicere</hi>. So MS. This double use of synonyms for “to speak” seems to be caused by the merging of two separate sentences from the <hi rend="italic">Liber</hi>: <hi rend="italic">Quid est bene loqui? Respondit: dicere modicum [etc.]</hi>. I have therefore translated the synonyms as one word.</p></note>
+ <note type="tnote" n="119"><space rend="indent1"/><p><hi rend="italic">et</hi><hi rend="subscript">1</hi>. So Franceschini (p. 501). MS: <hi rend="italic">est</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="120">1904<space rend="indent1"/><p><hi rend="italic">wordis</hi>. There is an emendation here in the MS itself: <hi rend="italic">wordis </hi><hi rend="italicstrikethrough">wordes</hi>.</p></note>
+ <note type="tnote" n="121">1925<space rend="indent1"/><p><hi rend="italic">Alexandre</hi>. MS: <hi rend="italic">Alexdre</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 157</p>
+ <note type="tnote" n="122"><space rend="indent1"/><p><hi rend="italic">bonis</hi>. So Franceschini (p. 536). MS: <hi rend="italic">bonus</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 158</p>
+ <note type="tnote" n="123"><space rend="indent1"/><p><hi rend="italic">splendide</hi>. So Franceschini (p. 535). MS: <hi rend="italic">spendide</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="124"><space rend="indent1"/><p><hi rend="italic">conscientia</hi>. So Franceschini (p. 535). MS: <hi rend="italic">constiam</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="125">1950<space rend="indent1"/><p><hi rend="italic">Therfore</hi>. MS: <hi rend="italic">Therfe</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 159</p>
+ <note type="tnote" n="126"><space rend="indent1"/><p><hi rend="italic">alii</hi><hi rend="subscript">1</hi>. So Franceschini (p. 536). MS: <hi rend="italic">aliqui</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="127"><space rend="indent1"/><p><hi rend="italic">nitantur</hi>. So Franceschini (p. 536). MS: <hi rend="italic">utantur</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 160</p>
+ <note type="tnote" n="128"><space rend="indent1"/><p><hi rend="italic">non</hi><hi rend="subscript">1</hi>. So Franceschini (p. 536). MS: <hi rend="italic">nor</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="129">1973<space rend="indent1"/><p><hi rend="italic">be</hi>. MS: <hi rend="italic">be be</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="130">1977<space rend="indent1"/><p><hi rend="italic">be</hi>. MS: missing. Emended for sense.</p></note>
+ <note type="tnote" n="131">1982<space rend="indent1"/><p><hi rend="italic">meche</hi>. MS: <hi rend="italic">me</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="132">2004<space rend="indent1"/><p><hi rend="italic">adversité</hi>. MS: <hi rend="italic">advertise</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="133">2012<space rend="indent1"/><p><hi rend="italic">unnedy</hi>. MS: <hi rend="italic">nedy</hi>. The word in the MS must surely be a mistake because that would give the opposite message from what the Latin says (i.e., to give to those who are in need, and not to those who are not in need).</p></note>
+ <p style="heading4">Paragraph 167</p>
+ <note type="tnote" n="134"><space rend="indent1"/><p><hi rend="italic">dulcia</hi><hi rend="subscript">2</hi>. MS: <hi rend="italic">ducia</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="135">2029<space rend="indent1"/><p><hi rend="italic">people</hi>. MS: <hi rend="italic">pleople</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="136">2042<space rend="indent1"/><p><hi rend="italic">freendes</hi>. MS: <hi rend="italic">freedes</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 172</p>
+ <note type="tnote" n="137"><space rend="indent1"/><p><hi rend="italic">pietas</hi>. So MS. The <hi rend="italic">Liber</hi> (Franceschini, p. 449) reads <hi rend="italic">miserendum</hi>, which fits the sense of the passage better.</p></note>
+ <note type="tnote" n="138"><space rend="indent1"/><p><hi rend="italic">iste est</hi>. MS: <hi rend="italic">iste ist</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 176</p>
+ <note type="tnote" n="139"><space rend="indent1"/><p><hi rend="italic">ignorancia</hi>. So Franceschini (p. 419). MS: <hi rend="italic">ignoracia</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 182</p>
+ <note type="tnote" n="140"><space rend="indent1"/><p><hi rend="italic">mundum</hi>. MS: <hi rend="italic">mudum</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 184</p>
+ <note type="tnote" n="141"><space rend="indent1"/><p><hi rend="italic">locuciones</hi>. Franceschini: <hi rend="italic">locutionem</hi> (p. 452). MS: <hi rend="italic">lcuciones</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="142"><space rend="indent1"/><p><hi rend="italic">dampnum</hi>. Franceschini: <hi rend="italic">damnum</hi> (p. 452). MS: <hi rend="italic">dapnum</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="143"><space rend="indent1"/><p><hi rend="italic">donec</hi><hi rend="subscript">3</hi>. MS: <hi rend="italic">donec donec</hi>. Emended for sense.</p></note>
+ <p style="heading4">Paragraph 185</p>
+ <note type="tnote" n="144"><space rend="indent1"/><p><hi rend="italic">sanctificacionem figurarum</hi>. The sense of the Latin is unclear here (the sanctification of the figures?). One manuscript of the <hi rend="italic">Liber</hi> (Franceschini, p. 454n8) reads: <hi rend="italic">utere bonis moribus et diligeris, et licet sis turpis, pulcritudo membrorum tuorum occultabit tue fationis figuram</hi> (Employ good manners, and you will be loved, and even though you may be ugly, the beauty of your limbs will hide the ugliness of your figure). In this case it seems Ashby’s Latin is more correct in reading <hi rend="italic">morum</hi> (manners, habits) instead of <hi rend="italic">membrorum</hi> (limbs, members). The Spanish <hi rend="italic">Bocados de Oro</hi>, which was translated into Latin in the <hi rend="italic">Liber</hi>, reads: <hi rend="italic">la fermosura de tus maneras encobrira la fealdat de tu fechura</hi> (Franceschini, p. 453n8) (the beauty of your manners will hide the ugliness of your figure).</p></note>
+ <note type="tnote" n="145">2151<space rend="indent1"/><p><hi rend="italic">therfore</hi>. MS: <hi rend="italic">therfe</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="146">2152<space rend="indent1"/><p><hi rend="italic">gret</hi>. MS: <hi rend="italic">gre</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="147">2170<space rend="indent1"/><p><hi rend="italic">more</hi>. MS: <hi rend="italic">more more</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="148">2176<space rend="indent1"/><p><hi rend="italic">never</hi>. MS: <hi rend="italic">nerver</hi>. Emended for sense.</p></note>
+ <note type="tnote" n="149">after 2178<space rend="indent1"/><p><hi rend="italic">but so in negligence</hi>. The manuscript ends in the middle of this stanza. It is unclear how much text is missing. There is no indication in the poem that Ashby was working towards a conclusion, and because he did not follow the structure of the <hi rend="italic">Liber Philosophorum</hi> it is impossible to determine whether he had almost finished working on the source material that he wanted to include. As this folio is the last leaf of a full quire, it is possible that at least a whole quire of the text is missing.</p></note>
+ </div></body></text></TEI>
